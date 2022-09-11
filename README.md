@@ -98,13 +98,3 @@ docker ps $(docker ps -qa) # Removes all running containers
 minikube delete # Removes the vm
 minikube start --logtostderr
 ```
-
-## Resources 📖
-
-Simulator: https://cloud.google.com/kubernetes-engine/#terminal_simulator
-
-Interactive tutorial: https://kubernetes.io/docs/tutorials/kubernetes-basics/create-cluster/cluster-interactive/
-
-Deploying tutorial: https://kubernetes.io/docs/tutorials/kubernetes-basics/deploy-app/deploy-interactive/
-
-Learn Kubernetes using Interactive Browser-Based Scenarios https://katacoda.com/courses/kubernetes
