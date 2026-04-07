@@ -1,4 +1,5 @@
-# How to configure Kubernetes minimal cluster for love
+# How to configure Kubernetes minimal cluster.
+# This is my first Automation trigger
 
 ## Prerequisites ⚠️
 
