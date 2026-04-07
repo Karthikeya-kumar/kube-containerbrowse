@@ -1,4 +1,5 @@
 # How to configure Kubernetes minimal cluster.
+# How to deal with Pega Trigger
 
 ## Prerequisites ⚠️
 
