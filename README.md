@@ -1,4 +1,4 @@
-# How to configure Kubernetes minimal cluster
+# How to configure Kubernetes minimal cluster for love
 
 ## Prerequisites ⚠️
 
