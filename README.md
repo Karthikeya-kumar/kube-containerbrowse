@@ -1,5 +1,5 @@
 # How to configure Kubernetes minimal cluster.
-
+# This is a testing phase for us.
 
 ## Prerequisites ⚠️
 
